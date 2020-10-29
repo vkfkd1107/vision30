@@ -1,7 +1,7 @@
 <annotation>
 	<folder>image</folder>
 	<filename>11431245_13426512244850882.jpg</filename>
-	<path>C:\Users\ji_su\Desktop\image\11431245_13426512244850882.jpg</path>
+	<path>C:\Users\ji_su\project\yolo\image\11431245_13426512244850882.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>108</ymin>
 			<xmax>66</xmax>
 			<ymax>116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>95</ymin>
+			<xmax>75</xmax>
+			<ymax>126</ymax>
 		</bndbox>
 	</object>
 </annotation>
