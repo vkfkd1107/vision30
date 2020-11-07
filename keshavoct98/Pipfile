@@ -1,0 +1,19 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+tensorflow = "==2.2.0"
+opencv-python = "==4.2.0.34"
+keras-ocr = "==0.8.3"
+easydict = "==1.9"
+absl-py = "==0.9.0"
+easyocr = "*"
+pytesseract = "*"
+pandas = "*"
+
+[requires]
+python_version = "3.7"
