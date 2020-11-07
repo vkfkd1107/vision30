@@ -1,0 +1,4843 @@
+Looking for C:\Users\NA\.keras-ocr\craft_mlt_25k.h5
+Looking for C:\Users\NA\.keras-ocr\crnn_kurapan.h5
+============================================================
+Easyocr prediction:  ['11林 AA5A']
+pytesseract prediction:  66594
+
+Ninv prediction:  ['11炼']
+Ninv prediction time:  0.5585341453552246
+string:  11林AA5A
+plates: []
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  绢绢
+
+Ninv prediction:  ['100']
+Ninv prediction time:  0.19801926612854004
+string:  
+plates: []
+Avg fps:-  6.278354644775391 
+
+
+============================================================
+Easyocr prediction:  ['s11林 bb54']
+pytesseract prediction:  411炼 66545
+
+Ninv prediction:  ['11炼665']
+Ninv prediction time:  0.1978929042816162
+string:  s11林bb54
+plates: []
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  绢绢
+
+Ninv prediction:  ['0']
+Ninv prediction time:  0.2008533477783203
+string:  
+plates: []
+Avg fps:-  4.418710947036743 
+
+
+============================================================
+Easyocr prediction:  ['11林 bb54']
+pytesseract prediction:  411炼 6654绢
+
+Ninv prediction:  ['11炼6654']
+Ninv prediction time:  0.20222806930541992
+string:  11林bb54
+plates: []
+============================================================
+Easyocr prediction:  ['', '0230']
+pytesseract prediction:  滚绢
+焊绢历历备绢绢
+
+Ninv prediction:  ['1']
+Ninv prediction time:  0.19946503639221191
+string:  0230
+plates: []
+Avg fps:-  3.886891523996989 
+
+
+============================================================
+Easyocr prediction:  ['11林 bA54']
+pytesseract prediction:  辑11炼 6654芭
+
+Ninv prediction:  ['扼11炼665']
+Ninv prediction time:  0.19771432876586914
+string:  11林bA54
+plates: []
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  绢绢绢啊绢焊
+
+Ninv prediction:  ['0']
+Ninv prediction time:  0.19892215728759766
+string:  
+plates: []
+Avg fps:-  3.56248140335083 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  绢绢绢啊绢焊
+啊绢 滚绊
+
+Ninv prediction:  ['071']
+Ninv prediction time:  0.20111608505249023
+string:  
+plates: []
+============================================================
+Easyocr prediction:  ['1令', 'AA54']
+pytesseract prediction:  1 6694
+
+Ninv prediction:  ['歹11炼']
+Ninv prediction time:  0.20245814323425293
+string:  1令AA54
+plates: []
+Avg fps:-  3.3706594467163087 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  滚备辑绢
+
+Ninv prediction:  ['71']
+Ninv prediction time:  0.19634151458740234
+string:  
+plates: []
+============================================================
+Easyocr prediction:  ['11林', 'AA51o']
+pytesseract prediction:  11炼 6440
+
+Ninv prediction:  ['歹11']
+Ninv prediction time:  0.19980955123901367
+string:  11林AA51o
+plates: []
+Avg fps:-  3.2738813956578574 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  焊历绢焊历绢
+
+Ninv prediction:  ['7']
+Ninv prediction time:  0.20004010200500488
+string:  
+plates: []
+============================================================
+Easyocr prediction:  ['Af54n', '1林']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11炼']
+Ninv prediction time:  0.2014603614807129
+string:  Af54n1林
+plates: []
+Avg fps:-  3.188556603022984 
+
+
+============================================================
+Easyocr prediction:  ['nb']
+pytesseract prediction:   
+
+ 
+
+33
+啊焊历历历绊历历
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.2015688419342041
+string:  nb
+plates: []
+============================================================
+Easyocr prediction:  ['s25La', '1林']
+pytesseract prediction:  411炼 66545
+
+Ninv prediction:  ['歹11辑']
+Ninv prediction time:  0.2015690803527832
+string:  s25La1林
+plates: []
+Avg fps:-  3.1216486394405365 
+
+
+Avg fps:-  2.7890053590138755 
+
+
+Avg fps:-  2.5228172063827516 
+
+
+Avg fps:-  2.3048937754197554 
+
+
+Avg fps:-  2.1232630610466003 
+
+
+Avg fps:-  1.969754512493427 
+
+
+Avg fps:-  1.8396733828953333 
+
+
+Avg fps:-  1.7253628253936768 
+
+
+Avg fps:-  1.625888243317604 
+
+
+Avg fps:-  1.5376981005949133 
+
+
+Avg fps:-  1.4593068096372817 
+
+
+Avg fps:-  1.3892032221743935 
+
+
+============================================================
+Easyocr prediction:  ['11林 bb5L']
+pytesseract prediction:  
+Ninv prediction:  ['11林660']
+Ninv prediction time:  0.2044534683227539
+string:  11林bb5L
+plates: []
+Avg fps:-  1.3874727725982665 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  1711公 66541
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.20359206199645996
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.3954692795163108 
+
+
+============================================================
+Easyocr prediction:  ['1林 bb54s']
+pytesseract prediction:  
+Ninv prediction:  ['11炼6664']
+Ninv prediction time:  0.20218348503112793
+string:  1林bb54s
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.3974377567117864 
+
+
+============================================================
+Easyocr prediction:  ['11林 bb54']
+pytesseract prediction:  
+Ninv prediction:  ['歹11荐60654']
+Ninv prediction time:  0.19591999053955078
+string:  11林bb54
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.398102262745733 
+
+
+============================================================
+Easyocr prediction:  ['11林 b654']
+pytesseract prediction:  
+Ninv prediction:  ['歹11荐6654']
+Ninv prediction time:  0.20317983627319336
+string:  11林b654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.3977607985337575 
+
+
+============================================================
+Easyocr prediction:  ['11林 b654']
+pytesseract prediction:  011
+
+7
+
+66541
+
+Ninv prediction:  ['11林66054']
+Ninv prediction time:  0.20844197273254395
+string:  11林b654
+plates: ['11林6654']
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.2044527530670166
+string:  
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4472447967529296 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20259809494018555
+string:  11林6654
+plates: ['11林6654']
+============================================================
+Easyocr prediction:  ['m']
+pytesseract prediction:   
+
+Ninv prediction:  ['7']
+Ninv prediction time:  0.20420050621032715
+string:  m
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4936854380827684 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  111炼 66540
+
+Ninv prediction:  ['滚11林6654']
+Ninv prediction time:  0.20370197296142578
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4989518059624567 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20260167121887207
+string:  11林6654
+plates: ['11林6654']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.20323991775512695
+string:  
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5370335919516427 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:   
+
+绊公 4665401啊
+
+ 
+
+Ninv prediction:  ['倾11林6654']
+Ninv prediction time:  0.2071247100830078
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5329738320975468 
+
+
+============================================================
+Easyocr prediction:  ['11林 b654']
+pytesseract prediction:  7绢11公 6654610
+
+Ninv prediction:  ['歹11备664']
+Ninv prediction time:  0.20523715019226074
+string:  11林b654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.529029162724813 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  7011公 6654绢坷
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.2054438591003418
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5252367527254167 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.2042989730834961
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5211077630519867 
+
+
+============================================================
+Easyocr prediction:  ['1林 bf5La']
+pytesseract prediction:  7711公 665409
+
+Ninv prediction:  ['歹滚11林6']
+Ninv prediction time:  0.20403003692626953
+string:  1林bf5La
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.519316846674139 
+
+
+============================================================
+Easyocr prediction:  ['11林 bA54']
+pytesseract prediction:  
+Ninv prediction:  ['歹滚113']
+Ninv prediction time:  0.2055978775024414
+string:  11林bA54
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5173535978092867 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:   
+
+1炼 665410
+
+Ninv prediction:  ['歹11366']
+Ninv prediction time:  0.20545101165771484
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5219105924878802 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  绢 炼665
+
+Ninv prediction:  ['歹11芭654']
+Ninv prediction time:  0.20319437980651855
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.518452333079444 
+
+
+============================================================
+Easyocr prediction:  ['11林 b654o']
+pytesseract prediction:  1711公 6654历坷
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.2044532299041748
+string:  11林b654o
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.5168005324698783 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  1411公 66541
+
+Ninv prediction:  ['歹11绊6654']
+Ninv prediction time:  0.20606780052185059
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.513695240020752 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  11炼 6654辑
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20623326301574707
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.512310193135188 
+
+
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4777419984340667 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654n']
+pytesseract prediction:  
+Ninv prediction:  ['歹11林664']
+Ninv prediction time:  0.20726966857910156
+string:  11林6654n
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4776452576241843 
+
+
+============================================================
+Easyocr prediction:  ['11林 b654']
+pytesseract prediction:  11何 6654绢
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20016193389892578
+string:  11林b654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4774737017495292 
+
+
+============================================================
+Easyocr prediction:  ['呈林', 'A5A']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11林']
+Ninv prediction time:  0.20791959762573242
+string:  呈林A5A
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.476955164310544 
+
+
+============================================================
+Easyocr prediction:  ['呈令', 'AF4']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹113']
+Ninv prediction time:  0.20750212669372559
+string:  呈令AF4
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.477983138777993 
+
+
+============================================================
+Easyocr prediction:  ['1林', 'AA5L锚']
+pytesseract prediction:  11炼 665
+
+Ninv prediction:  ['滚11炼']
+Ninv prediction time:  0.20644783973693848
+string:  1林AA5L锚
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4784914705488417 
+
+
+============================================================
+Easyocr prediction:  ['1林 AAFLn']
+pytesseract prediction:  1啊11公 661矾绊付绢7赣
+
+Ninv prediction:  ['歹11辑']
+Ninv prediction time:  0.20789694786071777
+string:  1林AAFLn
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4795807444530984 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  1 115 665441
+
+Ninv prediction:  ['歹11辑654']
+Ninv prediction time:  0.2089858055114746
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4857407985849584 
+
+
+============================================================
+Easyocr prediction:  ['11林 6o54']
+pytesseract prediction:  1 11炼 665441
+
+Ninv prediction:  ['歹13唱']
+Ninv prediction time:  0.20644783973693848
+string:  11林6o54
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.485117882490158 
+
+
+============================================================
+Easyocr prediction:  ['117 6654']
+pytesseract prediction:  11唱66
+
+历绊
+
+40
+
+Ninv prediction:  ['1116654']
+Ninv prediction time:  0.2054002285003662
+string:  1176654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4841853063933703 
+
+
+============================================================
+Easyocr prediction:  ['12474']
+pytesseract prediction:  
+Ninv prediction:  ['1136']
+Ninv prediction time:  0.20844268798828125
+string:  12474
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.484199743270874 
+
+
+============================================================
+Easyocr prediction:  ['1', '7']
+pytesseract prediction:   
+
+Ninv prediction:  ['11绊']
+Ninv prediction time:  0.2097461223602295
+string:  17
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4840968216166777 
+
+
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4580722267811115 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['19肺665']
+Ninv prediction time:  0.19950246810913086
+string:  
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4568639791236733 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  11何6654绢
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.20944428443908691
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4566906999658655 
+
+
+============================================================
+Easyocr prediction:  ['11林 66敌']
+pytesseract prediction:  
+Ninv prediction:  ['1林66']
+Ninv prediction time:  0.20916342735290527
+string:  11林66敌
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4562494668093595 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20929193496704102
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4559967432703291 
+
+
+============================================================
+Easyocr prediction:  ['117  54']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹119972']
+Ninv prediction time:  0.20983290672302246
+string:  11754
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4566637842278731 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20917844772338867
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4567471989269913 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['歹1191']
+Ninv prediction time:  0.21205902099609375
+string:  
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4626263642715196 
+
+
+============================================================
+Easyocr prediction:  ['24']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6626']
+Ninv prediction time:  0.20860624313354492
+string:  24
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.463028375307719 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  绢绢绢绢
+11公 6654历
+
+Ninv prediction:  ['歹11林6651']
+Ninv prediction time:  0.21010923385620117
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.462961830076624 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  历公唱唱公唱唱历矾历唱绢
+
+Ninv prediction:  ['歹11荐6654']
+Ninv prediction time:  0.21043610572814941
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4636847934415262 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  0101313785713
+
+Ninv prediction:  ['倾11荐6654']
+Ninv prediction time:  0.2111978530883789
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.464759417942592 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  1135 6654绢
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.20818257331848145
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4648522585630417 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.21143651008605957
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.465433014356173 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  1炼 6654
+
+1
+
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.20816969871520996
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4662657723282322 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  绢绢绢绢绢啊啊滚
+113 6654
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.21424531936645508
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4669718208597666 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.2103135585784912
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4675603579072392 
+
+
+============================================================
+Easyocr prediction:  ['665', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.21054959297180176
+string:  66511林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.468043513919996 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['1116601']
+Ninv prediction time:  0.22211623191833496
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.468726134300232 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  绢11公66547
+
+Ninv prediction:  ['11林6650']
+Ninv prediction time:  0.20744562149047852
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.469423619794174 
+
+
+============================================================
+Easyocr prediction:  ['665', '11林']
+pytesseract prediction:  焊 炼 6652
+
+11
+
+Ninv prediction:  ['11林6605']
+Ninv prediction time:  0.21052837371826172
+string:  66511林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.47604790992207 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['111']
+Ninv prediction time:  0.2089858055114746
+string:  
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4757642615331363 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  71311952
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20944809913635254
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4778959428941882 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  1011012167 05237404
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.21058320999145508
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4789657719930014 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.2105097770690918
+string:  665411林
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4797152374920093 
+
+
+============================================================
+Easyocr prediction:  ['11林 665']
+pytesseract prediction:  快11公 665炼4
+
+Ninv prediction:  ['11林6651']
+Ninv prediction time:  0.21143603324890137
+string:  11林665
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4805511127818713 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林6601']
+Ninv prediction time:  0.2115488052368164
+string:  11林6654
+plates: ['11林6654']
+string:  plates detected :- ,11林6654
+Avg fps:-  1.4813736799435737 
+
+
+============================================================
+Easyocr prediction:  ['11林 6634']
+pytesseract prediction:  11炼 6654
+
+Ninv prediction:  ['11林600']
+Ninv prediction time:  0.21143388748168945
+string:  11林6634
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4817313695255714 
+
+
+============================================================
+Easyocr prediction:  ['11林 bo2']
+pytesseract prediction:  
+Ninv prediction:  ['11林600']
+Ninv prediction time:  0.2115316390991211
+string:  11林bo2
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4826906442642211 
+
+
+============================================================
+Easyocr prediction:  ['11林 b62']
+pytesseract prediction:  
+Ninv prediction:  ['11林000']
+Ninv prediction time:  0.21342945098876953
+string:  11林b62
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4830481476253934 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.21043992042541504
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4836545833727208 
+
+
+============================================================
+Easyocr prediction:  ['6654']
+pytesseract prediction:  穿绊焊绊绊历
+
+Ninv prediction:  ['11炼6654']
+Ninv prediction time:  0.20936083793640137
+string:  6654
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.484088644923934 
+
+
+============================================================
+Easyocr prediction:  ['林 bb5']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.21232175827026367
+string:  林bb5
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.484934429327647 
+
+
+============================================================
+Easyocr prediction:  ['27']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11备666']
+Ninv prediction time:  0.20864081382751465
+string:  27
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.485664628533756 
+
+
+============================================================
+Easyocr prediction:  ['0054', '1i林']
+pytesseract prediction:  
+Ninv prediction:  ['扼11166']
+Ninv prediction time:  0.2143535614013672
+string:  00541i林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4922391176223755 
+
+
+============================================================
+Easyocr prediction:  ['00525']
+pytesseract prediction:  
+Ninv prediction:  ['11林6600']
+Ninv prediction time:  0.21342968940734863
+string:  00525
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4926860633937793 
+
+
+============================================================
+Easyocr prediction:  ['66519']
+pytesseract prediction:  
+Ninv prediction:  ['111660']
+Ninv prediction time:  0.20643329620361328
+string:  66519
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4932121932506561 
+
+
+============================================================
+Easyocr prediction:  ['`', '']
+pytesseract prediction:   
+
+Ninv prediction:  ['115654']
+Ninv prediction time:  0.21040630340576172
+string:  `
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4942035862569059 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4791748629675971 
+
+
+============================================================
+Easyocr prediction:  ['6654', '林']
+pytesseract prediction:  
+Ninv prediction:  ['16604']
+Ninv prediction time:  0.21224737167358398
+string:  6654林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4799807097885636 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['91备655']
+Ninv prediction time:  0.21289777755737305
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4803323097850964 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['1风5']
+Ninv prediction time:  0.21213078498840332
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4806892974402315 
+
+
+============================================================
+Easyocr prediction:  ['5', '1']
+pytesseract prediction:   
+
+Ninv prediction:  ['116653']
+Ninv prediction time:  0.21189427375793457
+string:  51
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4819422605189871 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['11备665']
+Ninv prediction time:  0.21193909645080566
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4828084594325015 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:   
+
+Ninv prediction:  ['1116603']
+Ninv prediction time:  0.2124319076538086
+string:  0
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4838269551595051 
+
+
+============================================================
+Easyocr prediction:  ['6']
+pytesseract prediction:   
+
+Ninv prediction:  ['116651']
+Ninv prediction time:  0.21140027046203613
+string:  6
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4844777313704343 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11668']
+Ninv prediction time:  0.2132124900817871
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['7']
+Ninv prediction time:  0.21143412590026855
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4993945068242598 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11荐6龋肺']
+Ninv prediction time:  0.21430754661560059
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4997735818227131 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['6']
+Ninv prediction time:  0.2105109691619873
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5056757354736328 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林龋55']
+Ninv prediction time:  0.2120037078857422
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['```', '']
+pytesseract prediction:   
+
+Ninv prediction:  ['70']
+Ninv prediction time:  0.21171832084655762
+string:  ```
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.521270534779766 
+
+
+============================================================
+Easyocr prediction:  ['6o5', '1林']
+pytesseract prediction:  
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.2096693515777588
+string:  6o51林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.522157587257086 
+
+
+============================================================
+Easyocr prediction:  ['665', 'I1林']
+pytesseract prediction:  
+Ninv prediction:  ['11林6685']
+Ninv prediction time:  0.2096540927886963
+string:  665I1林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.522940971318958 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['1备565']
+Ninv prediction time:  0.21425700187683105
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['`1', '']
+pytesseract prediction:  
+Ninv prediction:  ['90']
+Ninv prediction time:  0.21298646926879883
+string:  `1
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5383780002593994 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['555']
+Ninv prediction time:  0.2074446678161621
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['', '']
+pytesseract prediction:  1
+绢历
+
+Ninv prediction:  ['7']
+Ninv prediction time:  0.2123861312866211
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5533353056226458 
+
+
+============================================================
+Easyocr prediction:  ['065L', 'ii']
+pytesseract prediction:   
+
+Ninv prediction:  ['16656']
+Ninv prediction time:  0.21211671829223633
+string:  065Lii
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5542743588393588 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['66']
+Ninv prediction time:  0.2132568359375
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5542936347355352 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['3']
+Ninv prediction time:  0.21171116828918457
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.554227625882184 
+
+
+============================================================
+Easyocr prediction:  ['6054']
+pytesseract prediction:  
+Ninv prediction:  ['660664']
+Ninv prediction time:  0.2151660919189453
+string:  6054
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.554536677281791 
+
+
+============================================================
+Easyocr prediction:  ['林 6bb4']
+pytesseract prediction:  绢175 550
+
+Ninv prediction:  ['665']
+Ninv prediction time:  0.2124311923980713
+string:  林6bb4
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5552452694285999 
+
+
+============================================================
+Easyocr prediction:  ['6o54', '']
+pytesseract prediction:  
+Ninv prediction:  ['1林665']
+Ninv prediction time:  0.21346354484558105
+string:  6o54
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['6054', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['04']
+Ninv prediction time:  0.2128286361694336
+string:  605411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5755994491748981 
+
+
+============================================================
+Easyocr prediction:  ['林 bbb']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林滴6505']
+Ninv prediction time:  0.21340131759643555
+string:  林bbb
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['34']
+Ninv prediction time:  0.21429085731506348
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5897658339568548 
+
+
+============================================================
+Easyocr prediction:  ['bo54', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['1林6656']
+Ninv prediction time:  0.21227145195007324
+string:  bo5411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5902122923758177 
+
+
+============================================================
+Easyocr prediction:  ['00542', '11林']
+pytesseract prediction:   
+
+Ninv prediction:  ['16656']
+Ninv prediction time:  0.21255016326904297
+string:  0054211林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.590620574198271 
+
+
+============================================================
+Easyocr prediction:  ['bo54', '11林']
+pytesseract prediction:   
+
+Ninv prediction:  ['肺6656']
+Ninv prediction time:  0.21277999877929688
+string:  bo5411林
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['5034', '11林']
+pytesseract prediction:   
+
+Ninv prediction:  ['3']
+Ninv prediction time:  0.21243000030517578
+string:  503411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6047702623450237 
+
+
+============================================================
+Easyocr prediction:  ['66542', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['6653']
+Ninv prediction time:  0.21349453926086426
+string:  6654211林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.605245160645452 
+
+
+============================================================
+Easyocr prediction:  ['OC53', '11']
+pytesseract prediction:   
+
+Ninv prediction:  ['林6656']
+Ninv prediction time:  0.21342897415161133
+string:  OC5311
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6060485371157653 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['林6656']
+Ninv prediction time:  0.214996337890625
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.606612811654301 
+
+
+============================================================
+Easyocr prediction:  ['i']
+pytesseract prediction:  
+Ninv prediction:  ['66']
+Ninv prediction time:  0.21665287017822266
+string:  i
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6075198470043535 
+
+
+============================================================
+Easyocr prediction:  ['', 'ii']
+pytesseract prediction:  
+Ninv prediction:  ['快655']
+Ninv prediction time:  0.21124887466430664
+string:  ii
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6081933756669362 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['55']
+Ninv prediction time:  0.21599221229553223
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['0']
+Ninv prediction time:  0.21184110641479492
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6219110390371527 
+
+
+============================================================
+Easyocr prediction:  ['11缅bD']
+pytesseract prediction:  
+Ninv prediction:  ['滴665']
+Ninv prediction time:  0.21442151069641113
+string:  11缅bD
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.62270830302942 
+
+
+============================================================
+Easyocr prediction:  ['', '11']
+pytesseract prediction:   
+
+Ninv prediction:  ['葛55']
+Ninv prediction time:  0.21294617652893066
+string:  11
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6232188562067544 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['76']
+Ninv prediction time:  0.2134242057800293
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6289589558878252 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['滚6']
+Ninv prediction time:  0.21499848365783691
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6293270206451416 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:  
+Ninv prediction:  ['79']
+Ninv prediction time:  0.21119070053100586
+string:  0
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6294625959699116 
+
+
+============================================================
+Easyocr prediction:  ['`']
+pytesseract prediction:   
+
+Ninv prediction:  ['5肺6']
+Ninv prediction time:  0.21219658851623535
+string:  `
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6297643391166146 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['呈6']
+Ninv prediction time:  0.21308135986328125
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6298229843378067 
+
+
+============================================================
+Easyocr prediction:  ['1`0']
+pytesseract prediction:   
+
+Ninv prediction:  ['4']
+Ninv prediction time:  0.21103286743164062
+string:  1`0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['`Cb4', '1']
+pytesseract prediction:  绊公炼历绢绢
+
+Ninv prediction:  ['74']
+Ninv prediction time:  0.2141122817993164
+string:  `Cb41
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6458059484644454 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['77滴56']
+Ninv prediction time:  0.21419620513916016
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6461647327129658 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['1']
+Ninv prediction time:  0.21143484115600586
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['3']
+Ninv prediction time:  0.22439885139465332
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6603904953439728 
+
+
+============================================================
+Easyocr prediction:  ['1`']
+pytesseract prediction:   
+
+Ninv prediction:  ['7']
+Ninv prediction time:  0.21869921684265137
+string:  1`
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['0']
+Ninv prediction time:  0.21677851676940918
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6735862330956892 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.2031078338623047
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6747390022851472 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['77']
+Ninv prediction time:  0.21869850158691406
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6756678677316923 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['77']
+Ninv prediction time:  0.2187032699584961
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6777227366412129 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:  
+Ninv prediction:  ['666']
+Ninv prediction time:  0.24997639656066895
+string:  0
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6785958584617167 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['0']
+Ninv prediction time:  0.2031095027923584
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6834465987490912 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['75']
+Ninv prediction time:  0.2031099796295166
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['o']
+pytesseract prediction:   
+
+Ninv prediction:  ['00']
+Ninv prediction time:  0.2031106948852539
+string:  o
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6958124931307808 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['44']
+Ninv prediction time:  0.203108549118042
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.695413565464157 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.203108549118042
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.21869945526123047
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7066350068364824 
+
+
+============================================================
+Easyocr prediction:  ['1']
+pytesseract prediction:   
+
+Ninv prediction:  ['1滴64']
+Ninv prediction time:  0.2031083106994629
+string:  1
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['in']
+pytesseract prediction:  历焊公绢历历
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.21869802474975586
+string:  in
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7204635768917436 
+
+
+============================================================
+Easyocr prediction:  ['0', '11']
+pytesseract prediction:  
+Ninv prediction:  ['55']
+Ninv prediction time:  0.2030775547027588
+string:  011
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['1i']
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.20304608345031738
+string:  1i
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7318848371505737 
+
+
+============================================================
+Easyocr prediction:  ['10']
+pytesseract prediction:  
+Ninv prediction:  ['葛']
+Ninv prediction time:  0.20311832427978516
+string:  10
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7331044290449236 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:  
+Ninv prediction:  ['15']
+Ninv prediction time:  0.2031083106994629
+string:  0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['io']
+pytesseract prediction:  
+Ninv prediction:  ['09']
+Ninv prediction time:  0.2031092643737793
+string:  io
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7436573687526915 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:  
+Ninv prediction:  ['550']
+Ninv prediction time:  0.2031102180480957
+string:  0
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7434848703187087 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林55']
+Ninv prediction time:  0.21869969367980957
+string:  0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.2031083106994629
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.754033678198514 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  啊1历1风
+
+Ninv prediction:  ['3158']
+Ninv prediction time:  0.2031092643737793
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['ar', '']
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.2030773162841797
+string:  ar
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7707333353911938 
+
+
+============================================================
+Easyocr prediction:  ['', '1']
+pytesseract prediction:   
+
+Ninv prediction:  ['风65']
+Ninv prediction time:  0.2031102180480957
+string:  1
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7702227363715302 
+
+
+============================================================
+Easyocr prediction:  ['10']
+pytesseract prediction:   
+
+Ninv prediction:  ['56']
+Ninv prediction time:  0.2031099796295166
+string:  10
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7705103710993824 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['滴560']
+Ninv prediction time:  0.20310568809509277
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7698559856414795 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:   
+
+Ninv prediction:  ['1林680']
+Ninv prediction time:  0.2030787467956543
+string:  0
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.77089058958142 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['1芭660']
+Ninv prediction time:  0.2031097412109375
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7711980468348454 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['0']
+Ninv prediction time:  0.203108549118042
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7721960544586182 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:  
+Ninv prediction:  ['风666']
+Ninv prediction time:  0.20307517051696777
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.772800148307503 
+
+
+============================================================
+Easyocr prediction:  ['']
+pytesseract prediction:   
+
+Ninv prediction:  ['5']
+Ninv prediction time:  0.203108549118042
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  绢绊绢风
+
+Ninv prediction:  ['8歹00']
+Ninv prediction time:  0.2030789852142334
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7851881381004087 
+
+
+============================================================
+Easyocr prediction:  ['0', '扁']
+pytesseract prediction:  111
+历绢
+
+Ninv prediction:  ['72葛']
+Ninv prediction time:  0.203078031539917
+string:  0扁
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7865709861119587 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.21870160102844238
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7860371398318344 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['肺64']
+Ninv prediction time:  0.21866917610168457
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['6']
+Ninv prediction time:  0.21869802474975586
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7956949185721482 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.20311498641967773
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7950791952744969 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7846407741308212 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7743319857934987 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.764150678375621 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7540941194522601 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7441591257002296 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7344403079061796 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['穿1']
+Ninv prediction time:  0.2031095027923584
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7344829476023296 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7249384411794697 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7155075740246546 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.7060948433960683 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6967938367058248 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6876006684108087 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6785144916800565 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6696245408471608 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6608367870593894 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6520602566855294 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.643382485617291 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6348922050605386 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.626408339886183 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6181074760479635 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.609898865222931 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.6017809414731863 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5936663281786574 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5856404226334369 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5777018173881199 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5698480863828916 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5620787989708684 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5544772454124083 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5469562626899558 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.539514941513223 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5320688435905858 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5247018337249756 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5174105130136013 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5101956641735808 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5031355459665514 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4960679995707977 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4890724104277941 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4821478013459801 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4752933244512538 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4685077834967992 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.461867905855179 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4552166521252685 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4487083654592532 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4422644359137624 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4358835021654766 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.429488769391688 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4231561700117241 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4168838118585412 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.410671768280176 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4045199081658177 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.398426528204055 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3923902014420495 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3864118040732618 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3804885770233584 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3746207718537233 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3688075365022172 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3630481307153348 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.357356003352574 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.351792758757915 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3462176921705133 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3406984946944498 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.335226468910459 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3298048135396596 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3244438502820617 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3191472068428993 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.313891593085395 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3086648198355615 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3034813561628569 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2983465173788238 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2932909503253787 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2882113902465158 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2831819212281859 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2782567379803493 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2733060924791983 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.268398670049814 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2635994606829704 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2588407366962757 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2541225147649708 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2494437464145052 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.244738648626096 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2400720467170079 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2354442736914544 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2308553033623815 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2263683625209478 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2219181754549995 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2174399735976238 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2130623047913962 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2087202747823738 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2044131054032234 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2000777501179032 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1957764797210693 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1915100817661362 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1873396597211323 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1831404880101501 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1790359508334183 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1749015293869318 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.23432111740112305
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.178611553274095 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.21869945526123047
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1852099301750094 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.21869850158691406
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1893026228098906 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.20307683944702148
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1921941985494842 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['9绢']
+Ninv prediction time:  0.2031111717224121
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1952998739022476 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['3']
+Ninv prediction time:  0.20307683944702148
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.1985137499155212 
+
+
+============================================================
+Easyocr prediction:  ['订', '']
+pytesseract prediction:  
+Ninv prediction:  ['5']
+Ninv prediction time:  0.20307517051696777
+string:  订
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2018101451961138 
+
+
+============================================================
+Easyocr prediction:  ['', 'H']
+pytesseract prediction:  
+Ninv prediction:  ['3']
+Ninv prediction time:  0.20310640335083008
+string:  H
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2050839567365754 
+
+
+============================================================
+Easyocr prediction:  ['u海']
+pytesseract prediction:  赣绢
+
+Ninv prediction:  ['4']
+Ninv prediction time:  0.20307660102844238
+string:  u海
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2080659035480383 
+
+
+============================================================
+Easyocr prediction:  ['M']
+pytesseract prediction:  
+Ninv prediction:  ['10']
+Ninv prediction time:  0.2031080722808838
+string:  M
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2110551546204764 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['34']
+Ninv prediction time:  0.2031087875366211
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['技', '1']
+pytesseract prediction:  
+Ninv prediction:  ['2']
+Ninv prediction time:  0.2030799388885498
+string:  技1
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2212327145096054 
+
+
+============================================================
+Easyocr prediction:  ['N']
+pytesseract prediction:  7 5绢1绢
+矾 绢绢绢焊
+
+Ninv prediction:  ['9']
+Ninv prediction time:  0.203108549118042
+string:  N
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['挤', '']
+pytesseract prediction:   
+
+Ninv prediction:  ['34']
+Ninv prediction time:  0.2031092643737793
+string:  挤
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2317557683151759 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['60']
+Ninv prediction time:  0.2031087875366211
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2348547755782284 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['4']
+Ninv prediction time:  0.20310115814208984
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.237405901061558 
+
+
+============================================================
+Easyocr prediction:  ['p']
+pytesseract prediction:  
+Ninv prediction:  ['何']
+Ninv prediction time:  0.2031106948852539
+string:  p
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2402374762075918 
+
+
+============================================================
+Easyocr prediction:  ['坏']
+pytesseract prediction:  5 5653
+
+Ninv prediction:  ['滴何']
+Ninv prediction time:  0.2030777931213379
+string:  坏
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2437320116261275 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.20308184623718262
+string:  0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['do544', '1']
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.20307660102844238
+string:  do5441
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2582893275162752 
+
+
+============================================================
+Easyocr prediction:  ['30', 'T']
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.18748688697814941
+string:  30T
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['dd4', '']
+pytesseract prediction:   
+
+Ninv prediction:  ['9']
+Ninv prediction time:  0.20311260223388672
+string:  dd4
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2689755172519894 
+
+
+============================================================
+Easyocr prediction:  ['0', '1']
+pytesseract prediction:  
+Ninv prediction:  ['滴']
+Ninv prediction time:  0.2030775547027588
+string:  01
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.272031663108046 
+
+
+============================================================
+Easyocr prediction:  ['0']
+pytesseract prediction:  
+Ninv prediction:  ['滴']
+Ninv prediction time:  0.18748760223388672
+string:  0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['D']
+pytesseract prediction:  
+Ninv prediction:  ['7']
+Ninv prediction time:  0.2030775547027588
+string:  D
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2817881194027987 
+
+
+============================================================
+Easyocr prediction:  ['00']
+pytesseract prediction:  
+Ninv prediction:  ['4']
+Ninv prediction time:  0.2031090259552002
+string:  00
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.284672534984091 
+
+
+============================================================
+Easyocr prediction:  ['f0']
+pytesseract prediction:  
+Ninv prediction:  ['林66']
+Ninv prediction time:  0.203108549118042
+string:  f0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['M']
+pytesseract prediction:   
+
+Ninv prediction:  ['7快']
+Ninv prediction time:  0.2031078338623047
+string:  M
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2946417469410259 
+
+
+============================================================
+Easyocr prediction:  ['0Db']
+pytesseract prediction:  
+Ninv prediction:  ['林666']
+Ninv prediction time:  0.20311284065246582
+string:  0Db
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.2980443050535462 
+
+
+============================================================
+Easyocr prediction:  ['00']
+pytesseract prediction:  51141602
+
+Ninv prediction:  ['滴685']
+Ninv prediction time:  0.20307660102844238
+string:  00
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3009523183214196 
+
+
+============================================================
+Easyocr prediction:  ['p0']
+pytesseract prediction:  31161262
+
+啊
+04
+
+Ninv prediction:  ['660']
+Ninv prediction time:  0.2031116485595703
+string:  p0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['66542', '']
+pytesseract prediction:  5933
+
+Ninv prediction:  ['3']
+Ninv prediction time:  0.2031087875366211
+string:  66542
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3109582032476153 
+
+
+============================================================
+Easyocr prediction:  ['00']
+pytesseract prediction:   
+
+Ninv prediction:  ['53']
+Ninv prediction time:  0.20310568809509277
+string:  00
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.313686663569929 
+
+
+============================================================
+Easyocr prediction:  ['6b']
+pytesseract prediction:  
+Ninv prediction:  ['369']
+Ninv prediction time:  0.2031097412109375
+string:  6b
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3162866611007258 
+
+
+============================================================
+Easyocr prediction:  ['6o54']
+pytesseract prediction:  77 55
+151168
+
+Ninv prediction:  ['754']
+Ninv prediction time:  0.20307636260986328
+string:  6o54
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3191423904769413 
+
+
+============================================================
+Easyocr prediction:  ['6o543', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['57']
+Ninv prediction time:  0.20310521125793457
+string:  6o54311林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3220331156757517 
+
+
+============================================================
+Easyocr prediction:  ['pbb', '11']
+pytesseract prediction:  771713 655历
+14
+
+Ninv prediction:  ['滴606']
+Ninv prediction time:  1.202840805053711
+string:  pbb11
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3286312145099306 
+
+
+============================================================
+Easyocr prediction:  ['bo9', 'I1林']
+pytesseract prediction:  历13 67056
+焊
+
+Ninv prediction:  ['06']
+Ninv prediction time:  0.18748688697814941
+string:  bo9I1林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.331717306917364 
+
+
+============================================================
+Easyocr prediction:  ['Oo54', '11']
+pytesseract prediction:  6533
+
+Ninv prediction:  ['655']
+Ninv prediction time:  0.2031092643737793
+string:  Oo5411
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3345131217810335 
+
+
+============================================================
+Easyocr prediction:  ['林0']
+pytesseract prediction:  
+Ninv prediction:  ['滴']
+Ninv prediction time:  0.20307683944702148
+string:  林0
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['3b9', '11林']
+pytesseract prediction:  72
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.18746161460876465
+string:  3b911林
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['0054']
+pytesseract prediction:  
+Ninv prediction:  ['09']
+Ninv prediction time:  0.2030782699584961
+string:  0054
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3520323741767142 
+
+
+============================================================
+Easyocr prediction:  ['6o543', '11林']
+pytesseract prediction:   
+
+Ninv prediction:  ['绊766']
+Ninv prediction time:  0.2031083106994629
+string:  6o54311林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.354987344939816 
+
+
+============================================================
+Easyocr prediction:  ['bol']
+pytesseract prediction:  
+Ninv prediction:  ['31']
+Ninv prediction time:  0.20311379432678223
+string:  bol
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3578042112547777 
+
+
+============================================================
+Easyocr prediction:  ['6o94', '1']
+pytesseract prediction:  131赣历
+
+Ninv prediction:  ['106']
+Ninv prediction time:  0.2030785083770752
+string:  6o941
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.360763410522356 
+
+
+============================================================
+Easyocr prediction:  ['`00']
+pytesseract prediction:  
+Ninv prediction:  ['1林00']
+Ninv prediction time:  0.2031083106994629
+string:  `00
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.36360102891922 
+
+
+============================================================
+Easyocr prediction:  ['林 002']
+pytesseract prediction:  
+Ninv prediction:  ['160']
+Ninv prediction time:  0.20308709144592285
+string:  林002
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3662198200160733 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['11快660']
+Ninv prediction time:  0.2031080722808838
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3690316709531407 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['666']
+Ninv prediction time:  0.2031116485595703
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['靛']
+pytesseract prediction:   
+
+Ninv prediction:  ['']
+Ninv prediction time:  0.2031090259552002
+string:  靛
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3788039328688282 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['6653']
+Ninv prediction time:  0.2031083106994629
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['7']
+Ninv prediction time:  0.2031095027923584
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.3895071970449913 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['滴']
+Ninv prediction time:  0.20308184623718262
+string:  
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['71']
+Ninv prediction time:  0.2031099796295166
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.399561882019043 
+
+
+============================================================
+Easyocr prediction:  ['6654', '1林']
+pytesseract prediction:  
+Ninv prediction:  ['5653']
+Ninv prediction time:  0.2031097412109375
+string:  66541林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4022203379829459 
+
+
+============================================================
+Easyocr prediction:  ['6654', '1林']
+pytesseract prediction:  
+Ninv prediction:  ['650']
+Ninv prediction time:  0.203108549118042
+string:  66541林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.408593881090349 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['1林66']
+Ninv prediction time:  0.1874849796295166
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.411405705610911 
+
+
+============================================================
+Easyocr prediction:  ['6054', '1林']
+pytesseract prediction:  
+Ninv prediction:  ['7003']
+Ninv prediction time:  0.18748044967651367
+string:  60541林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4140871949370122 
+
+
+============================================================
+Easyocr prediction:  ['6654', '林']
+pytesseract prediction:  
+Ninv prediction:  ['665']
+Ninv prediction time:  0.18749237060546875
+string:  6654林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4169618325517668 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['林665']
+Ninv prediction time:  0.21869921684265137
+string:  665411林
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['7']
+Ninv prediction time:  0.20307636260986328
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4265665339164608 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['1林6656']
+Ninv prediction time:  0.20311284065246582
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4295748895720433 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['1林6653']
+Ninv prediction time:  0.20311307907104492
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.432582079777952 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  3113 665401
+
+Ninv prediction:  ['11林66563']
+Ninv prediction time:  0.20308160781860352
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4353026486689748 
+
+
+============================================================
+Easyocr prediction:  ['66545', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11林665风']
+Ninv prediction time:  0.20311236381530762
+string:  6654511林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4379580339313718 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['1林6656']
+Ninv prediction time:  0.2031111717224121
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4405639860537145 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['777']
+Ninv prediction time:  0.20308351516723633
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4430313928227594 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['1162']
+Ninv prediction time:  0.20307517051696777
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.445986577772325 
+
+
+============================================================
+Easyocr prediction:  ['665', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11005']
+Ninv prediction time:  0.2031099796295166
+string:  66511林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4485755718022681 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  绢绢
+
+Ninv prediction:  ['99']
+Ninv prediction time:  0.20307636260986328
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4514560814087207 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['1林55']
+Ninv prediction time:  0.2031087875366211
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.454007988920608 
+
+
+============================================================
+Easyocr prediction:  ['bo', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11滴00']
+Ninv prediction time:  0.2031080722808838
+string:  bo11林
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['66543', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['30']
+Ninv prediction time:  0.20310568809509277
+string:  6654311林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4649346679638906 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.2030773162841797
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4677282916174994 
+
+
+============================================================
+Easyocr prediction:  ['6352', 'ii令']
+pytesseract prediction:   
+
+Ninv prediction:  ['300']
+Ninv prediction time:  0.2031090259552002
+string:  6352ii令
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  ['bo']
+pytesseract prediction:   
+
+2300
+
+Ninv prediction:  ['1快00']
+Ninv prediction time:  0.2030777931213379
+string:  bo
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.481683742396439 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['7']
+Ninv prediction time:  0.2030785083770752
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4846047106601463 
+
+
+============================================================
+Easyocr prediction:  ['0054', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['5呈呈3']
+Ninv prediction time:  0.2031080722808838
+string:  005411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.487305405754713 
+
+
+============================================================
+Easyocr prediction:  ['44', 'i']
+pytesseract prediction:  
+Ninv prediction:  ['0']
+Ninv prediction time:  0.21873879432678223
+string:  44i
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.490135999308858 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  
+Ninv prediction:  ['6654']
+Ninv prediction time:  0.20310592651367188
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4926751650869847 
+
+
+============================================================
+Easyocr prediction:  ['`', '11林']
+pytesseract prediction:   
+
+Ninv prediction:  ['11芭668']
+Ninv prediction time:  0.20305705070495605
+string:  `11林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4950329173019743 
+
+
+============================================================
+Easyocr prediction:  ['C2']
+pytesseract prediction:  
+Ninv prediction:  ['143']
+Ninv prediction time:  0.2031095027923584
+string:  C2
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4981037393119765 
+
+
+============================================================
+Easyocr prediction:  ['C']
+pytesseract prediction:  
+Ninv prediction:  ['11林60213']
+Ninv prediction time:  0.2031092643737793
+string:  C
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5016000315131788 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11芭608']
+Ninv prediction time:  0.2031078338623047
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5046342537726884 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.500437080676739 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4962656629597482 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4920720098944615 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4879515280083913 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11芭5葛8葛']
+Ninv prediction time:  0.2031116485595703
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4906484986511046 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4865572821010242 
+
+
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4824907988579972 
+
+
+============================================================
+Easyocr prediction:  ['1']
+pytesseract prediction:  
+Ninv prediction:  ['777']
+Ninv prediction time:  0.21872854232788086
+string:  1
+plates: ['11林6654', '11林6634']
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['7711']
+Ninv prediction time:  0.20311689376831055
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4925277764538685 
+
+
+============================================================
+Easyocr prediction:  ['660']
+pytesseract prediction:  唱 6654
+
+Ninv prediction:  ['111000']
+Ninv prediction time:  0.20311498641967773
+string:  660
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4952307234297286 
+
+
+============================================================
+Easyocr prediction:  ['45', '1i7']
+pytesseract prediction:  273173276531
+何风焊风
+
+Ninv prediction:  ['116565']
+Ninv prediction time:  0.2031092643737793
+string:  451i7
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.4979574637498685 
+
+
+============================================================
+Easyocr prediction:  ['6555', 'ii林']
+pytesseract prediction:  
+Ninv prediction:  ['11公665']
+Ninv prediction time:  0.2030789852142334
+string:  6555ii林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5010886932486918 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  付历焊风风历历
+
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.203078031539917
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5038029296057565 
+
+
+============================================================
+Easyocr prediction:  ['6651', '1iz']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.2030785083770752
+string:  66511iz
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5065378640455025 
+
+
+============================================================
+Easyocr prediction:  ['6654', '林']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20311331748962402
+string:  6654林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5093844416578845 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  1 11公 66547矾
+
+Ninv prediction:  ['11荐6654']
+Ninv prediction time:  0.2030789852142334
+string:  11林6654
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5155836305083779 
+
+
+============================================================
+Easyocr prediction:  ['6654', '11林']
+pytesseract prediction:  111公 6654啊
+
+Ninv prediction:  ['歹11林6654']
+Ninv prediction time:  0.20311212539672852
+string:  665411林
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5182620826889486 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['歹1110']
+Ninv prediction time:  0.20307660102844238
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5215563934919072 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  111
+
+历矾
+绢绢穿绊
+
+Ninv prediction:  ['11166']
+Ninv prediction time:  0.2031090259552002
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5242083274830154 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['11']
+Ninv prediction time:  0.2030773162841797
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5269206432142342 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  辑绢唱穿 77702705 历付
+
+Ninv prediction:  ['歹7111']
+Ninv prediction time:  0.2031097412109375
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5292984725430954 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['付11备6654']
+Ninv prediction time:  0.203108549118042
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5318411557570748 
+
+
+============================================================
+Easyocr prediction:  ['0854', '令']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹1366']
+Ninv prediction time:  0.2030777931213379
+string:  0854令
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5350934335951172 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11荐6654']
+Ninv prediction time:  0.2031090259552002
+string:  11林6654
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.537661183464424 
+
+
+============================================================
+Easyocr prediction:  ['117 9951']
+pytesseract prediction:   
+
+Ninv prediction:  ['倾11林6654']
+Ninv prediction time:  0.20311331748962402
+string:  1179951
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5408050424751194 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['歹110111']
+Ninv prediction time:  0.18748688697814941
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.5440173258412533 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['11林040']
+Ninv prediction time:  0.2030773162841797
+string:  
+plates: ['11林6654', '11林6634']
+string:  plates detected :- ,11林6654,11林6634
+Avg fps:-  1.546793601853507 
+
+
+============================================================
+Easyocr prediction:  ['11r 665 1']
+pytesseract prediction:  9033098
+
+111773665434
+
+Ninv prediction:  ['肺1116054']
+Ninv prediction time:  0.2031090259552002
+string:  11r6651
+plates: ['11林6654', '11林6634', '11r6651']
+string:  plates detected :- ,11林6654,11林6634,11r6651
+Avg fps:-  1.5500502837689174 
+
+
+============================================================
+Easyocr prediction:  ['0054']
+pytesseract prediction:  矾1117辑啊6绊
+
+Ninv prediction:  ['11100']
+Ninv prediction time:  0.2030959129333496
+string:  0054
+plates: ['11林6654', '11林6634', '11r6651']
+string:  plates detected :- ,11林6654,11林6634,11r6651
+Avg fps:-  1.5526197701692581 
+
+
+string:  plates detected :- ,11林6654,11林6634,11r6651
+Avg fps:-  1.5486195472414703 
+
+
+============================================================
+Easyocr prediction:  ['11令 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.21869945526123047
+string:  11令6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5513054933925132 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.2030773162841797
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5540641918988296 
+
+
+============================================================
+Easyocr prediction:  ['`72']
+pytesseract prediction:   
+
+Ninv prediction:  ['1116684']
+Ninv prediction time:  0.2031090259552002
+string:  `72
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5570815064933863 
+
+
+============================================================
+Easyocr prediction:  ['051']
+pytesseract prediction:   
+
+Ninv prediction:  ['11104']
+Ninv prediction time:  0.20310616493225098
+string:  051
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.559564668591283 
+
+
+============================================================
+Easyocr prediction:  ['``74']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹1135']
+Ninv prediction time:  0.2031078338623047
+string:  ``74
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5625099309995854 
+
+
+============================================================
+Easyocr prediction:  ['4354', '器']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11林']
+Ninv prediction time:  0.20307683944702148
+string:  4354器
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.569302096672377 
+
+
+============================================================
+Easyocr prediction:  ['11 6654']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11林665']
+Ninv prediction time:  0.2031114101409912
+string:  116654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.572609211338891 
+
+
+============================================================
+Easyocr prediction:  ['令', 'bA54']
+pytesseract prediction:  
+Ninv prediction:  ['11窍5']
+Ninv prediction time:  0.20307707786560059
+string:  令bA54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5754793198815342 
+
+
+============================================================
+Easyocr prediction:  ['11林 bf54e']
+pytesseract prediction:  
+Ninv prediction:  ['歹11林66']
+Ninv prediction time:  0.1874866485595703
+string:  11林bf54e
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5776477419869017 
+
+
+============================================================
+Easyocr prediction:  ['1令 bf54']
+pytesseract prediction:  
+Ninv prediction:  ['11林660']
+Ninv prediction time:  0.203110933303833
+string:  1令bf54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5805321770922869 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['歹113664']
+Ninv prediction time:  0.2030773162841797
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.583017117374546 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  11何 66544
+
+Ninv prediction:  ['歹11林65']
+Ninv prediction time:  0.20307707786560059
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.585634824021222 
+
+
+============================================================
+Easyocr prediction:  ['11林 665L']
+pytesseract prediction:  矾 11
+
+啊
+
+6654
+
+Ninv prediction:  ['11林60']
+Ninv prediction time:  0.2031104564666748
+string:  11林665L
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5883026807034601 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['滚11160']
+Ninv prediction time:  0.2031106948852539
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5912165161049658 
+
+
+============================================================
+Easyocr prediction:  ['令', '1L54']
+pytesseract prediction:   
+
+Ninv prediction:  ['滚1136']
+Ninv prediction time:  0.2031116485595703
+string:  令1L54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5938175333582836 
+
+
+============================================================
+Easyocr prediction:  ['11林 bf54n']
+pytesseract prediction:  
+Ninv prediction:  ['滚11林6654']
+Ninv prediction time:  0.203110933303833
+string:  11林bf54n
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5966106940737261 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.203078031539917
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.5994311532458743 
+
+
+============================================================
+Easyocr prediction:  ['51', '1`令']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林46']
+Ninv prediction time:  0.2031102180480957
+string:  511`令
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6024513128954123 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11备']
+Ninv prediction time:  0.2031083106994629
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.604878778098732 
+
+
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6009529723558604 
+
+
+============================================================
+Easyocr prediction:  ['c654']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.20307683944702148
+string:  c654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6037731100531185 
+
+
+============================================================
+Easyocr prediction:  ['11令 6654']
+pytesseract prediction:  111历啊 66541
+
+ 
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20307660102844238
+string:  11令6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6060787563323975 
+
+
+============================================================
+Easyocr prediction:  ['11令', 'AA54']
+pytesseract prediction:  11何 6654
+
+Ninv prediction:  ['歹11林0']
+Ninv prediction time:  0.2031080722808838
+string:  11令AA54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6085791461011196 
+
+
+============================================================
+Easyocr prediction:  [' 117 6654']
+pytesseract prediction:  绢绊
+
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.2030773162841797
+string:  1176654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6113149082629055 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['歹116654']
+Ninv prediction time:  0.2031099796295166
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.613873325958454 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['歹11荐654']
+Ninv prediction time:  0.203078031539917
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6163751556879613 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['滚1136654']
+Ninv prediction time:  0.20307660102844238
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6225775637124713 
+
+
+============================================================
+Easyocr prediction:  ['11林 6654']
+pytesseract prediction:  111366541
+
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.2031087875366211
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6250861028986654 
+
+
+============================================================
+Easyocr prediction:  ['林 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.2030777931213379
+string:  林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654
+Avg fps:-  1.6275807275822025 
+
+
+============================================================
+Easyocr prediction:  ['11辆 6654']
+pytesseract prediction:  
+Ninv prediction:  ['倾11荐6654']
+Ninv prediction time:  0.203108549118042
+string:  11辆6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.630232551390446 
+
+
+============================================================
+Easyocr prediction:  ['74']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.2031090259552002
+string:  74
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6332498230040073 
+
+
+============================================================
+Easyocr prediction:  ['1令l']
+pytesseract prediction:   
+
+Ninv prediction:  ['1167']
+Ninv prediction time:  0.203078031539917
+string:  1令l
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.636027293391042 
+
+
+============================================================
+Easyocr prediction:  ['1林 b54']
+pytesseract prediction:  1411公 6654070
+
+Ninv prediction:  ['歹11炼4']
+Ninv prediction time:  0.21869707107543945
+string:  1林b54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6387910157287677 
+
+
+============================================================
+Easyocr prediction:  ['s554']
+pytesseract prediction:   
+
+Ninv prediction:  ['倾11荐6654']
+Ninv prediction time:  0.21869778633117676
+string:  s554
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6414120425241554 
+
+
+============================================================
+Easyocr prediction:  ['i1林 b654']
+pytesseract prediction:  
+Ninv prediction:  ['歹11炼6654']
+Ninv prediction time:  0.2031083106994629
+string:  i1林b654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6438253571077721 
+
+
+============================================================
+Easyocr prediction:  ['b54', '林']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹113665']
+Ninv prediction time:  0.20307660102844238
+string:  b54林
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6467468640491711 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11311备1']
+Ninv prediction time:  0.2030775547027588
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6496544538400113 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['歹1111']
+Ninv prediction time:  0.20307683944702148
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6522607907004978 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['歹11911']
+Ninv prediction time:  0.2030792236328125
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654
+Avg fps:-  1.6551007950792507 
+
+
+============================================================
+Easyocr prediction:  ['11林0071']
+pytesseract prediction:  
+Ninv prediction:  ['1104']
+Ninv prediction time:  0.2030789852142334
+string:  11林0071
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071
+Avg fps:-  1.6580048559882865 
+
+
+============================================================
+Easyocr prediction:  ['11林 6854']
+pytesseract prediction:  
+Ninv prediction:  ['歹113665']
+Ninv prediction time:  0.2031087875366211
+string:  11林6854
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.660497383417817 
+
+
+============================================================
+Easyocr prediction:  ['1令bs54']
+pytesseract prediction:   
+
+Ninv prediction:  ['歹11665']
+Ninv prediction time:  0.2031080722808838
+string:  1令bs54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.6629460787471337 
+
+
+============================================================
+Easyocr prediction:  ['`71']
+pytesseract prediction:   
+
+Ninv prediction:  ['呈115荐4']
+Ninv prediction time:  0.2031078338623047
+string:  `71
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.6657939721839596 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['歹113654']
+Ninv prediction time:  0.21869802474975586
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.668690051479964 
+
+
+============================================================
+Easyocr prediction:  ['54', '']
+pytesseract prediction:   
+
+Ninv prediction:  ['011快665']
+Ninv prediction time:  0.203078031539917
+string:  54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.6712971476454233 
+
+
+============================================================
+Easyocr prediction:  ['527']
+pytesseract prediction:   
+
+Ninv prediction:  ['窍1156654']
+Ninv prediction time:  0.2031116485595703
+string:  527
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.6778803218277474 
+
+
+============================================================
+Easyocr prediction:  ['7 1354']
+pytesseract prediction:   
+
+Ninv prediction:  ['11566054']
+Ninv prediction time:  0.20308947563171387
+string:  71354
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.6803398090600967 
+
+
+============================================================
+Easyocr prediction:  ['1练6032']
+pytesseract prediction:  炼
+炼 焊
+6
+啊啊绢绢
+
+炼
+
+Ninv prediction:  ['11快000']
+Ninv prediction time:  0.2031090259552002
+string:  1练6032
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854
+Avg fps:-  1.6830864582870368 
+
+
+============================================================
+Easyocr prediction:  ['71辆 6654']
+pytesseract prediction:  54115 66540辑
+
+Ninv prediction:  ['11备6654']
+Ninv prediction time:  0.2030777931213379
+string:  71辆6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.686012057522636 
+
+
+============================================================
+Easyocr prediction:  ['71 6654']
+pytesseract prediction:  
+Ninv prediction:  ['11备6654']
+Ninv prediction time:  0.2031087875366211
+string:  716654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.6885406864488095 
+
+
+============================================================
+Easyocr prediction:  ['11林 bo54']
+pytesseract prediction:  
+Ninv prediction:  ['11林6000']
+Ninv prediction time:  0.2031087875366211
+string:  11林bo54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.6912848483217824 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11']
+Ninv prediction time:  0.2031090259552002
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.6936299465320728 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['歹14']
+Ninv prediction time:  0.20310616493225098
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.6960764119190535 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  矾715333历历1
+
+Ninv prediction:  ['窍1141']
+Ninv prediction time:  0.2030789852142334
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.6984829422296996 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['歹1114']
+Ninv prediction time:  0.2030775547027588
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7008289542852664 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11备000']
+Ninv prediction time:  0.2031080722808838
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.703203417561165 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['歹111']
+Ninv prediction time:  0.2031111717224121
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7056885294797943 
+
+
+============================================================
+Easyocr prediction:  ['`10054']
+pytesseract prediction:  绊赣 17 26509
+
+Ninv prediction:  ['歹滚1114']
+Ninv prediction time:  0.2030777931213379
+string:  `10054
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7081521746595991 
+
+
+============================================================
+Easyocr prediction:  ['0941']
+pytesseract prediction:  
+Ninv prediction:  ['肺111354']
+Ninv prediction time:  0.2031078338623047
+string:  0941
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7108343382483546 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['11605']
+Ninv prediction time:  0.21869921684265137
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7142580900584814 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['窍1113']
+Ninv prediction time:  0.203108549118042
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.716758308203324 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  5
+0 3
+
+3
+
+71743
+
+Ninv prediction:  ['滚11114']
+Ninv prediction time:  0.2031083106994629
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7195525887500809 
+
+
+============================================================
+Easyocr prediction:  ['11` 6654']
+pytesseract prediction:  
+Ninv prediction:  ['歹11154']
+Ninv prediction time:  0.2030806541442871
+string:  11`6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7219171117131526 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['173111']
+Ninv prediction time:  0.20307707786560059
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.724193635890238 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['070901']
+Ninv prediction time:  0.2031080722808838
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7269120609931399 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['7林10']
+Ninv prediction time:  0.20310759544372559
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.73286705085372 
+
+
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7290758263497126 
+
+
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7253026146786796 
+
+
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7215102656757661 
+
+
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7177358496555482 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['7']
+Ninv prediction time:  0.2031106948852539
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7198768550494932 
+
+
+============================================================
+Easyocr prediction:  ['0s5']
+pytesseract prediction:   
+
+Ninv prediction:  ['19065']
+Ninv prediction time:  0.2031095027923584
+string:  0s5
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7222992100435144 
+
+
+============================================================
+Easyocr prediction:  ['1林', '0654']
+pytesseract prediction:  
+Ninv prediction:  ['11备6654']
+Ninv prediction time:  0.21869969367980957
+string:  1林0654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7248202775006003 
+
+
+============================================================
+Easyocr prediction:  ['11', '6o54']
+pytesseract prediction:  赣唱
+
+绢历历绢5
+
+4
+
+Ninv prediction:  ['1啊66']
+Ninv prediction time:  0.2031111717224121
+string:  116o54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7276971256425844 
+
+
+============================================================
+Easyocr prediction:  ['1005']
+pytesseract prediction:   
+
+Ninv prediction:  ['1064']
+Ninv prediction time:  0.2031080722808838
+string:  1005
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7301575664047883 
+
+
+============================================================
+Easyocr prediction:  ['1i林', '6654']
+pytesseract prediction:  1绢
+3333
+
+Ninv prediction:  ['11林665']
+Ninv prediction time:  0.20308279991149902
+string:  1i林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7329798072645992 
+
+
+============================================================
+Easyocr prediction:  ['li练', 'Jo54']
+pytesseract prediction:  
+Ninv prediction:  ['11备665']
+Ninv prediction time:  0.2031090259552002
+string:  li练Jo54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7358536404232645 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['17']
+Ninv prediction time:  0.20307636260986328
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7380970348614828 
+
+
+============================================================
+Easyocr prediction:  ['ii林', '6b54']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20310759544372559
+string:  ii林6b54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7405845561513194 
+
+
+============================================================
+Easyocr prediction:  ['1116054']
+pytesseract prediction:   
+
+Ninv prediction:  ['1116654']
+Ninv prediction time:  0.18748712539672852
+string:  1116054
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7429288309110504 
+
+
+============================================================
+Easyocr prediction:  ['1i林', '6654']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林6655']
+Ninv prediction time:  0.2031095027923584
+string:  1i林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7452854775064002 
+
+
+============================================================
+Easyocr prediction:  ['11林', '6654']
+pytesseract prediction:  赣
+绢绢历肺赣
+
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.21872997283935547
+string:  11林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7477756735922276 
+
+
+============================================================
+Easyocr prediction:  ['1i林', '6654 ']
+pytesseract prediction:  
+Ninv prediction:  ['11林6654']
+Ninv prediction time:  0.20311427116394043
+string:  1i林6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7504727643564206 
+
+
+============================================================
+Easyocr prediction:  ['ii', '6654`']
+pytesseract prediction:   
+
+Ninv prediction:  ['1156654']
+Ninv prediction time:  0.2031083106994629
+string:  ii6654`
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7531641937229672 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['715']
+Ninv prediction time:  0.21869874000549316
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7554389020623682 
+
+
+============================================================
+Easyocr prediction:  ['l1', '6C54']
+pytesseract prediction:  777
+
+Ninv prediction:  ['1116654']
+Ninv prediction time:  0.2031080722808838
+string:  l16C54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7578119493019608 
+
+
+============================================================
+Easyocr prediction:  ['Ii林', '6654`']
+pytesseract prediction:   
+
+Ninv prediction:  ['11绊6654']
+Ninv prediction time:  0.20307540893554688
+string:  Ii林6654`
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7602089936083014 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['14777']
+Ninv prediction time:  0.2031083106994629
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7627652880826505 
+
+
+============================================================
+Easyocr prediction:  ['115 0654']
+pytesseract prediction:   
+
+Ninv prediction:  ['11芭665']
+Ninv prediction time:  0.21869850158691406
+string:  1150654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7651288633432862 
+
+
+============================================================
+Easyocr prediction:  ['Jiz', '0954']
+pytesseract prediction:   
+
+Ninv prediction:  ['11665']
+Ninv prediction time:  0.20307683944702148
+string:  Jiz0954
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7711944025741473 
+
+
+============================================================
+Easyocr prediction:  ['i', '054']
+pytesseract prediction:   
+
+Ninv prediction:  ['11备6654']
+Ninv prediction time:  0.203108549118042
+string:  i054
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.774026273070155 
+
+
+============================================================
+Easyocr prediction:  ['Ii d5a']
+pytesseract prediction:   
+
+Ninv prediction:  ['1肺6654']
+Ninv prediction time:  0.2031080722808838
+string:  Iid5a
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7767455186736718 
+
+
+============================================================
+Easyocr prediction:  ['I Cb5']
+pytesseract prediction:   
+
+Ninv prediction:  ['177665']
+Ninv prediction time:  0.20307683944702148
+string:  ICb5
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+============================================================
+Easyocr prediction:  ['ii炼', '6o54']
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.2186906337738037
+string:  ii炼6o54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7855122094731695 
+
+
+============================================================
+Easyocr prediction:  ['1 665']
+pytesseract prediction:  
+Ninv prediction:  ['75']
+Ninv prediction time:  0.2031095027923584
+string:  1665
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+============================================================
+Easyocr prediction:  ['Il炼', '0o54 ']
+pytesseract prediction:  
+Ninv prediction:  ['']
+Ninv prediction time:  0.20310616493225098
+string:  Il炼0o54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7939589402286265 
+
+
+============================================================
+Easyocr prediction:  ['1i炼', '0b54']
+pytesseract prediction:   
+
+Ninv prediction:  ['11林655']
+Ninv prediction time:  0.20307636260986328
+string:  1i炼0b54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7966069988906384 
+
+
+============================================================
+Easyocr prediction:  ['Ii5', '6O54']
+pytesseract prediction:   
+
+Ninv prediction:  ['11肺6654']
+Ninv prediction time:  0.203110933303833
+string:  Ii56O54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.7990182863842936 
+
+
+============================================================
+Easyocr prediction:  ['Il', '6O54']
+pytesseract prediction:  
+Ninv prediction:  ['11肺6654']
+Ninv prediction time:  0.21869850158691406
+string:  Il6O54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.801355930964152 
+
+
+============================================================
+Easyocr prediction:  ['Fiiz', '6654']
+pytesseract prediction:   
+
+Ninv prediction:  ['11肺6654']
+Ninv prediction time:  0.2030775547027588
+string:  Fiiz6654
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8038068182452556 
+
+
+============================================================
+Easyocr prediction:  ['`5 0354']
+pytesseract prediction:  
+Ninv prediction:  ['776风555']
+Ninv prediction time:  0.2031095027923584
+string:  `50354
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8061127303975872 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  33
+
+Ninv prediction:  ['6']
+Ninv prediction time:  0.20307636260986328
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.808246369393456 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['74458']
+Ninv prediction time:  0.20310544967651367
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8105644103188872 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['776']
+Ninv prediction time:  0.2031083106994629
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8128681140941578 
+
+
+============================================================
+Easyocr prediction:  ['i1', 'bo54']
+pytesseract prediction:   
+
+Ninv prediction:  ['1林6654']
+Ninv prediction time:  0.2031080722808838
+string:  i1bo54
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8154136946326809 
+
+
+============================================================
+Easyocr prediction:  ['1', 'oll']
+pytesseract prediction:   
+
+Ninv prediction:  ['14']
+Ninv prediction time:  0.2031087875366211
+string:  1oll
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.817948467621918 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['135']
+Ninv prediction time:  0.20307707786560059
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8201603858231457 
+
+
+============================================================
+Easyocr prediction:  ['4']
+pytesseract prediction:   
+
+Ninv prediction:  ['1164']
+Ninv prediction time:  0.2030777931213379
+string:  4
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8225302327432404 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:   
+
+Ninv prediction:  ['317']
+Ninv prediction time:  0.20306921005249023
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8246999973836153 
+
+
+============================================================
+Easyocr prediction:  []
+pytesseract prediction:  
+Ninv prediction:  ['7']
+Ninv prediction time:  0.2031087875366211
+string:  
+plates: ['11林6654', '11林6634', '11r6651', '11令6654', '11辆6654', '11林0071', '11林6854', '71辆6654']
+string:  plates detected :- ,11林6654,11林6634,11r6651,11令6654,11辆6654,11林0071,11林6854,71辆6654
+Avg fps:-  1.8310123912165843 
+
+
