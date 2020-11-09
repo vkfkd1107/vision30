@@ -1,0 +1,42 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+5
+9
+sn
+8
+0
+3
+누
+1
+2
+조'
+7
+조
+4
+주
+6
+가
+허
+노
+로
+보
+마
+어
+우
+머
+부
+저
+거
