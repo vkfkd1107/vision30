@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' type='text/css' href='{% static 'index.css' %}'/>
+    {% block head %}
+    {% endblock %}
+    <title>Document</title>
+</head>
+<body>
+    <div class='header'>
+        <div class='title'><a href='{% url 'upload_file'%}' 
+        style='color:royalblue;text-decoration: none;font-weight:bold;font-size:80px' >
+        Find Number</a><div>
+        <h2>차량 번호판 분석</h2>
+    </div>
+    <div class='box'>
+        {% block content %}
+        {% endblock  %}
+    </div>
+</body>
+</html>

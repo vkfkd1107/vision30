@@ -1,0 +1,15 @@
+{% extends 'index.html' %}
+
+{% block content %}
+    {% load static %}
+    <link rel='stylesheet' type='text/css' href='{% static 'index.css' %}'/>
+    <br><br>
+    <div class='loading'>
+        <div class="loader"></div>
+        <h3>분석 중</h3>
+        <form method="post" action="{% url 'loading' %}">
+            {% csrf_token %}
+            <button type='submit'>Start</button>
+        </form>
+    </div>
+{% endblock  %}

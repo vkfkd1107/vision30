@@ -1,0 +1,47 @@
+{% extends 'index.html' %}
+
+{% block head %}
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+{% endblock  %}
+
+{% block content %}
+    {% load static %}
+    <link rel='stylesheet' type='text/css' href='{% static 'index.css' %}'/>
+    <h2>UPLOAD FILE</h2>
+    
+    <form class='form'method="post"  enctype="multipart/form-data" novalidate>
+        {% csrf_token %}
+        {{form}}
+        <button class='button' type="submit" value="save">UPLOAD FILE</button>
+        <script type='text/javascript'>
+            $(".button").click(function(){
+                var maskHeight = $(document).height(); 
+                var maskWidth = $(document).width(); 
+                
+                var mask = "<div id='mask' style='position:absolute; z-index:9000; background-color:#000000; display:none; left:0; top:0;'></div>";
+                var loadingImg = '';
+                
+                loadingImg += "<div id='loadingImg' style='position:absolute; left:40%; top:45%; display:none; z-index:10000;'>";
+                loadingImg += " <img src='https://mir-s3-cdn-cf.behance.net/project_modules/disp/35771931234507.564a1d2403b3a.gif'/>";
+                loadingImg += "</div>"; 
+                
+                $('form')
+                    .append(mask)
+                    .append(loadingImg)
+                
+                $('#mask').css({
+                    'width' : maskWidth, 
+                    'height': maskHeight, 
+                    'opacity' : '0.4'
+                }); 
+                
+                $('#mask').show();   
+                
+                $('#loadingImg').show();
+            });
+        </script>
+        <h3>동영상 파일을 선택해 주세요</h3>
+
+    </form>
+
+{% endblock  %}

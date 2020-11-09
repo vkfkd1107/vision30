@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+
+{% block content %}
+    {% load static %}
+    <link rel='stylesheet' type='text/css' href='{% static 'index.css' %}'/>
+    {% comment %} <h2>동영상에서 스크립트 분석 완료! 아래에서 파일을 다운로드하세요</h2>     {% endcomment %}
+    <div class='form'>
+        {% for file in files %}
+            <a href='{% url 'down' file %}'>
+                {{file}}<br>
+            </a>
+        {% endfor %}
+    </div>
+{% endblock  %}
