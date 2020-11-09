@@ -82,7 +82,7 @@ def plateDetect(frame, input_size, model):
     return bboxes
 
 def main(_argv):
-    
+    print('main')
     input_layer = tf.keras.layers.Input([FLAGS.size, FLAGS.size, 3])
     feature_maps = YOLOv4(input_layer, NUM_CLASS)
     bbox_tensors = []
@@ -128,6 +128,7 @@ def detect_connect(file_path,file_name,mediadir):
     print(file_name)
     print(mediadir)
     
+    app.run(main)
     
 if __name__ == '__main__':
     try:
