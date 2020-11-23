@@ -5,6 +5,7 @@ from .forms import UploadForm
 from .models import FileUpload
 
 from django.conf import settings
+
 import os
 
 # *********************************************************
@@ -18,12 +19,14 @@ def index(request):
 # 파일 업로드 페이지
 def upload_file(request):
     reset(request)
-    if request.method=='POST':        
+    if request.method=='POST':
+        print("request.post: ",request.POST, "request.files: " , request.FILES)        
         form=UploadForm(request.POST,request.FILES)
         if form.is_valid():
             print('*'*30)
             print('form valid')
             form.save()
+            print("form.cleaned_data: ", form.cleaned_data)
             return redirect('file_list')
     else:
         print('*'*30)
@@ -97,14 +100,18 @@ def file_list(request):
     print('mediadir: ',mediadir)
     print('file_name: ',file_name)
     
-    connect(file_path,mediadir,file_name)
-    files = os.listdir(mediadir)
+    connect(file_path, mediadir, file_name)
+    print('*'*30)
+    print("analysis complete")
+    print('*'*30)
+    files = os.listdir(str(r'C:\Users\NA\Desktop\AI_School\Main_project\deployment\first_django\firstproject\results'))
+    print("media list: ", files)
     file_list = []
-    for file in files:
-        if (file.split('.')[-1] == 'csv'):
-            file_list.append(file)
+    # for file in files:
+    #     if (file.split('.')[-1] == 'csv'):
+    #         file_list.append(file)
     context={
-        'files': file_list,
+        'files': files,
     }
     return render(request,'list.html',context)
 
@@ -135,17 +142,20 @@ def down(request,selected_file):
     print('down')
     files=FileUpload.objects.all()
     file = files[0]
-    file_path=file.pic.path
+    file_path = file.pic.path
+    print('file_path: ', file_path)
     file_name = file.pic
-    mediadir = file_path.split(str(file_name))[0]
+    print('file_name: ', file_name)
+    mediadir = 'results/'
     print(selected_file)
 
     import mimetypes 
     import urllib
     file_path = mediadir + str(selected_file)
+    print('download path: ', file_path)
     with open(file_path, 'rb') as fh: 
         response = HttpResponse(fh.read(), content_type=mimetypes.guess_type(file_path)[0]) 
-        # response['Content-Disposition'] = 'attachment;filename*=UTF-8\'\'%s' % file_name 
+        response['Content-Disposition'] = 'attachment;filename*=UTF-8\'\'%s' % file_name 
         return response
 
 # 출처: https://www.devoops.kr/69 [데브웁스]
